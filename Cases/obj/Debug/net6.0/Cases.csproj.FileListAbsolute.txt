@@ -1,0 +1,15 @@
+C:\Users\s221150\source\repos\Cases\Cases\bin\Debug\net6.0\Cases.exe
+C:\Users\s221150\source\repos\Cases\Cases\bin\Debug\net6.0\Cases.deps.json
+C:\Users\s221150\source\repos\Cases\Cases\bin\Debug\net6.0\Cases.runtimeconfig.json
+C:\Users\s221150\source\repos\Cases\Cases\bin\Debug\net6.0\Cases.dll
+C:\Users\s221150\source\repos\Cases\Cases\bin\Debug\net6.0\Cases.pdb
+C:\Users\s221150\source\repos\Cases\Cases\obj\Debug\net6.0\Cases.csproj.AssemblyReference.cache
+C:\Users\s221150\source\repos\Cases\Cases\obj\Debug\net6.0\Cases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s221150\source\repos\Cases\Cases\obj\Debug\net6.0\Cases.AssemblyInfoInputs.cache
+C:\Users\s221150\source\repos\Cases\Cases\obj\Debug\net6.0\Cases.AssemblyInfo.cs
+C:\Users\s221150\source\repos\Cases\Cases\obj\Debug\net6.0\Cases.csproj.CoreCompileInputs.cache
+C:\Users\s221150\source\repos\Cases\Cases\obj\Debug\net6.0\Cases.dll
+C:\Users\s221150\source\repos\Cases\Cases\obj\Debug\net6.0\refint\Cases.dll
+C:\Users\s221150\source\repos\Cases\Cases\obj\Debug\net6.0\Cases.pdb
+C:\Users\s221150\source\repos\Cases\Cases\obj\Debug\net6.0\Cases.genruntimeconfig.cache
+C:\Users\s221150\source\repos\Cases\Cases\obj\Debug\net6.0\ref\Cases.dll
